@@ -75,4 +75,4 @@ https://go-tour-jp.appspot.com/basics/16
 Numeric Constants (数値の定数)
 高精度というのがよく分からない...
 
-A Tour of Go 17/17完
+`A Tour of Go 17/17完 次回はその続きを...`
